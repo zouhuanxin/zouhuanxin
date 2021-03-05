@@ -20,7 +20,7 @@ ______      ________   _____   __  __
 
 QQ: `634448817`  
 
-GitHub: [notbucai](https://github.com/zouhuanxin)
+GitHub: [zouhuanxin](https://github.com/zouhuanxin)
 
 Email: 634448817@qq.com
 ## GitHub
