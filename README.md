@@ -13,10 +13,10 @@ ______      ________   _____   __  __
 ## About 
 
 > 一个 `啥都会` 的憨憨。
+> 
+I graduated from （JVTC）Jiujiang Vocational and Technical College (2020), and now I'm studying in (JJU)Jiujiang College (2022). I'm working on Android, and I'm looking for an offer for the 2022 school enrollment.
 
-原九江职业技术学院毕业（2020），现专升本就读于九江学院(2022毕业)，主力`Android`，求一份`2022届校招offer`。
-
-微信: `15720989670`  
+WX: `15720989670`  
 
 QQ: `634448817`  
 
