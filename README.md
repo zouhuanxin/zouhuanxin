@@ -1,16 +1,25 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**zouhuanxin/zouhuanxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+______      ________   _____   __  __
+/\  _  \    /\_____  \ /\  __`\/\ \/\ \
+\ \ \L\ \   \/____//'/'\ \ \/\ \ \ \ \ \
+ \ \  __ \       //'/'  \ \ \ \ \ \ \ \ \
+  \ \ \/\ \     //'/'___ \ \ \_\ \ \ \_\ \
+   \ \_\ \_\    /\_______\\ \_____\ \_____\
+    \/_/\/_/    \/_______/ \/_____/\/_____/
+```
 
-Here are some ideas to get you started:
+## About 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 一个 `啥都会` 的憨憨。
+
+原九江职业技术学院毕业（2020），现专升本就读于九江学院(2022毕业)，主力`Android`，求一份`2022届校招offer`。
+
+微信: `15720989670`  
+
+QQ: `634448817`  
+
+GitHub: [notbucai](https://github.com/zouhuanxin)
+
+Email: 634448817@qq.com
