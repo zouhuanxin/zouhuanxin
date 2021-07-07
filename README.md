@@ -13,8 +13,7 @@ ______      ________   _____   __  __
 ## About 
 
 > 一个 `啥都会` 的憨憨。
-> 
-I graduated from （JVTC）Jiujiang Vocational and Technical College (2020), and now I'm studying in (JJU)Jiujiang College (2022). I'm working on Android, and I'm looking for an offer for the 2022 school enrollment.
+
 
 WX: `15720989670`  
 
